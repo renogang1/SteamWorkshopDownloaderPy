@@ -14,7 +14,7 @@ try:
         pathh = "steamcmd\\steamapps\\workshop\\content\\" + str(gameid) + "\\" + str(workshopid) + "\\"
         steam.download("anonymous", "", gameid, workshopid)
         time.sleep(20)
-        for path in pathlib.Path("steamcmd\\steamapps\\workshop\\content\\" + str(gameid) + "\\" + str(workshopid) + "\\").iterdir():
+        for path in pathlib.Path(pathh).iterdir():
             if path.is_file():
                 old_name = path.stem
                 old_extension = path.suffix
