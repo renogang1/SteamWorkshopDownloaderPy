@@ -4,7 +4,7 @@ Download workshop items easily
 Require: Python 3.9 and SteamCMD executable
 
 тутор для русских:
-  ogo! vam poveзlo!
+* **ogo! vam poveзlo!**
   
 * стимворкшопдовнлоадер закрыли, поэтому вот скрипт
 * скачиваете [SteamCMD](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip), кидаете в папку со скриптом и просто запускаете его
