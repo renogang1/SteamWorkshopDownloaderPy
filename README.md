@@ -1,9 +1,5 @@
 # SteamWorkshopDownloaderPy
-Download workshop items easily
 
-Require: Python 3.9 and SteamCMD executable
-
-тутор для русских:
 * **ogo! vam poveзlo!**
   
 * стимворкшопдовнлоадер закрыли, поэтому вот скрипт
