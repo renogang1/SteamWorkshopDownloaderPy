@@ -1,6 +1,5 @@
 # SteamWorkshopDownloaderPy
 
-* **ogo! vam poveзlo!**
   
 * стимворкшопдовнлоадер закрыли, поэтому вот скрипт
 * скачиваете [SteamCMD](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip), кидаете в папку steamcmd и запускаете
